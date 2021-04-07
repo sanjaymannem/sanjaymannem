@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjaymannem
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Pyhton, Django and Machine Learning
-- 💞️ I’m looking to collaborate anyone working on python, Django and ML or NLP project.
+- 💞️ I’m looking to collaborate whith anyone working on python, Django and ML or NLP project.
 - 📫 If you are a programming enthusiast and willing collaborate or help me, feel free to contact me on sanjaymannem1@gmail.com, linkedin.com/in/sanjaymannem
