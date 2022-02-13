@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Pyhton, Django and Machine Learning
 - 💞️ I’m looking to collaborate whith anyone working on python, Django and ML or DL project.
-- 📫 If you are a programming enthusiast and willing to collaborate or help me, feel free to contact me on sanjaymannem1@gmail.com, linkedin.com/in/sanjaymannem
+- 📫 If you are a programming enthusiast and willing to collaborate for research and sharing knowledge, feel free to contact me on sanjaymannem1@gmail.com, linkedin.com/in/sanjaymannem
