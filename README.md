@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Pyhton, Django and Machine Learning
 - 💞️ I’m looking to collaborate whith anyone working on python, Django and ML or NLP project.
 - 📫 If you are a programming enthusiast and willing to collaborate or help me, feel free to contact me on sanjaymannem1@gmail.com, linkedin.com/in/sanjaymannem
+- Sanjay is a good boy!
