@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @sanjaymannem
-- 👀 I’m interested in Programming
-- 🌱 I’m currently working as a Software Engineer
-- 💞️ I’m looking to collaborate whith anyone working on python, ML or DL project.
+- 💞️ I’m looking to collaborate whith anyone working on AI and Web Development with Python
 - 📫 If you are a programming enthusiast and willing to collaborate for research and sharing knowledge, feel free to contact me on sanjaymannem1@gmail.com, linkedin.com/in/sanjaymannem
